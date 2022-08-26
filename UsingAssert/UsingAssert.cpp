@@ -5,7 +5,7 @@ float travelTime(float, float);
 
 int main()
 {
-    float distance, float speed;
+    float distance, speed;
     std::cout << "Enter distance of your Jorney:\n";
     std::cin >> distance;
     std::cout << "Enter your speed:\n";
